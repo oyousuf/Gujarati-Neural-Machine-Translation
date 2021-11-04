@@ -1,0 +1,16 @@
+Epoch: 1, Train loss: 5.602, Epoch time = 4267.475s
+Epoch: 2, Train loss: 4.691, Epoch time = 4277.452s
+Epoch: 3, Train loss: 4.305, Epoch time = 4352.115s
+Epoch: 4, Train loss: 4.110, Epoch time = 4358.535s
+Epoch: 5, Train loss: 3.988, Epoch time = 4357.916s
+Epoch: 6, Train loss: 3.873, Epoch time = 4334.394s
+Epoch: 7, Train loss: 3.782, Epoch time = 4350.068s
+Epoch: 8, Train loss: 3.706, Epoch time = 4350.418s
+Epoch: 9, Train loss: 3.641, Epoch time = 4348.367s
+Epoch: 10, Train loss: 3.585, Epoch time = 4361.361s
+Epoch: 11, Train loss: 3.502, Epoch time = 4356.481s
+Epoch: 12, Train loss: 3.370, Epoch time = 4374.629s
+Epoch: 13, Train loss: 3.243, Epoch time = 4375.331s
+Epoch: 14, Train loss: 3.144, Epoch time = 4370.402s
+Epoch: 15, Train loss: 3.071, Epoch time = 4362.001s
+Epoch: 16, Train loss: 3.009, Epoch time = 4358.737s
